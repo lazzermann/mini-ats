@@ -1,0 +1,14 @@
+D:\Projects\c#\mini-ats\mini-ats\obj\Debug\mini_ats.authorization_form.resources
+D:\Projects\c#\mini-ats\mini-ats\obj\Debug\mini_ats.Properties.Resources.resources
+D:\Projects\c#\mini-ats\mini-ats\obj\Debug\mini-ats.csproj.GenerateResource.cache
+D:\Projects\c#\mini-ats\mini-ats\bin\Debug\mini-ats.exe.config
+D:\Projects\c#\mini-ats\mini-ats\bin\Debug\mini-ats.exe
+D:\Projects\c#\mini-ats\mini-ats\bin\Debug\mini-ats.pdb
+D:\Projects\c#\mini-ats\mini-ats\obj\Debug\mini-ats.exe
+D:\Projects\c#\mini-ats\mini-ats\obj\Debug\mini-ats.pdb
+D:\Projects\c#\mini-ats\mini-ats\obj\Debug\mini_ats.Phone_Forms.phone.resources
+D:\Projects\c#\mini-ats\mini-ats\obj\Debug\mini_ats.Phone_Forms.text_arrea.resources
+D:\Projects\c#\mini-ats\mini-ats\obj\Debug\mini_ats.Admin_Forms.admin_form.resources
+D:\Projects\c#\mini-ats\mini-ats\obj\Debug\mini_ats.Admin_Forms.add_or_delete_telephone_form.resources
+D:\Projects\c#\mini-ats\mini-ats\obj\Debug\mini_ats.Admin_Forms.replace_number_form.resources
+D:\Projects\c#\mini-ats\mini-ats\obj\Debug\mini-ats.csprojAssemblyReference.cache
